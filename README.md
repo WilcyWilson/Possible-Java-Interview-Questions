@@ -21,7 +21,18 @@
 3. What is runtime polymorphism or dynamic method dispatch?
 4. What is the difference between overriding and overloading?
 5. Can you override a private or static method in Java?
+6. What is Dependency Injection?
+7. How to sort a Hash Map data program?
+8. Can a Constructor be made static? What happens?
+9. Types of Inheritance?
+
+## XML and JSON
+
+1. How to convert XML to JSON?
 
 ## Servlets
 
-1
+
+## MySQL or Database
+1. Create Table 
+2. ALTER Table
