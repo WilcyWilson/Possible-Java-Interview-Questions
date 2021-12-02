@@ -33,6 +33,7 @@
 ## Servlets, JSP
 1. What is JSP? Why should we use it?
 2. Prepared Statement?
+3. JSP tags?
 
 
 ## MySQL or Database
