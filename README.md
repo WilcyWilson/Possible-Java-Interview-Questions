@@ -32,6 +32,7 @@
 
 ## Servlets, JSP
 1. What is JSP? Why should we use it?
+2. Prepared Statement?
 
 
 ## MySQL or Database
