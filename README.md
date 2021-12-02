@@ -13,6 +13,8 @@
 9. What is the difference between HashMap and HashTable?
 10. What is the difference between equals() and == operator?
 11. What is compile time and runtime?
+12. Java 8 Features compared to previous versions?
+13. Java 17 Features compared to previous versions?
 
 ## OOP
 
