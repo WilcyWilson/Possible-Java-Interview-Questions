@@ -15,6 +15,7 @@
 11. What is compile time and runtime?
 12. Java 8 Features compared to previous versions?
 13. Java 17 Features compared to previous versions?
+14. HashMap and TreeMap Difference?
 
 ## OOP
 
@@ -27,6 +28,9 @@
 7. How to sort a Hash Map data program?
 8. Can a Constructor be made static? What happens?
 9. Types of Inheritance?
+10. What are immutable objects?
+11. Why is String immutable?
+12. 
 
 ## XML and JSON
 
@@ -36,6 +40,17 @@
 1. What is JSP? Why should we use it?
 2. Prepared Statement?
 3. JSP tags?
+
+## Spring
+1. Setter Injection?
+2. Constructor Injection?
+3. Why use Annotation in Spring?
+4. Named Query Hibernate?
+5. What is Spring bean?
+6. What is SessionFactory?
+7. Dependency Injection?
+8. What is ORM? Why should we use it?
+9. 
 
 
 ## MySQL or Database
