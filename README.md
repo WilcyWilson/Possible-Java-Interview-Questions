@@ -30,7 +30,6 @@
 9. Types of Inheritance?
 10. What are immutable objects?
 11. Why is String immutable?
-12. 
 
 ## XML and JSON
 
