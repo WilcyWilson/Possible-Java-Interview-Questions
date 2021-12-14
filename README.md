@@ -18,6 +18,7 @@
 14. HashMap and TreeMap Difference?
 15. Difference between throw and throws keyword in Java?
 16. Write a program to reverse the String?
+17. Write a program to sort a HashMap data?
 
 ## OOP
 
