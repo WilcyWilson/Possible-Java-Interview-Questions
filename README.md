@@ -16,6 +16,8 @@
 12. Java 8 Features compared to previous versions?
 13. Java 17 Features compared to previous versions?
 14. HashMap and TreeMap Difference?
+15. Difference between throw and throws keyword in Java?
+16. Write a program to reverse the String?
 
 ## OOP
 
@@ -45,7 +47,7 @@
 2. Constructor Injection?
 3. Why use Annotation in Spring?
 4. Named Query Hibernate?
-5. What is Spring bean?
+5. What is Spring Bean?
 6. What is SessionFactory?
 7. Dependency Injection?
 8. What is ORM? Why should we use it?
