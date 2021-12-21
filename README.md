@@ -29,11 +29,10 @@
 4. What is the difference between overriding and overloading?
 5. Can you override a private or static method in Java?
 6. What is Dependency Injection?
-7. How to sort a Hash Map data program?
-8. Can a Constructor be made static? What happens?
-9. Types of Inheritance?
-10. What are immutable objects?
-11. Why is String immutable?
+7. Can a Constructor be made static? What happens?
+8. Types of Inheritance?
+9. What are immutable objects?
+10. Why is String immutable?
 
 ## XML and JSON
 
@@ -51,7 +50,7 @@
 4. Named Query Hibernate?
 5. What is Spring Bean?
 6. What is SessionFactory?
-7. Dependency Injection?
+7. Dependency Injection in Spring?
 8. What is ORM? Why should we use it?
 9. Explain Spring Bean Life Cycle?
 10. What are @Scope in Spring? 
