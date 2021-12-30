@@ -54,6 +54,7 @@
 8. What is ORM? Why should we use it?
 9. Explain Spring Bean Life Cycle?
 10. What are @Scope in Spring? 
+11. Difference between Entity and DTO?
 
 
 ## MySQL or Database
